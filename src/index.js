@@ -13,9 +13,13 @@ import CardList from './CardList'
 import { robots } from './robots'
 
 ReactDOM.render(
+<<<<<<< HEAD
   <React.StrictMode>
     <CardList robots={ robots } />
   </React.StrictMode>,
+=======
+  <h1>Hello World!</h1>,
+>>>>>>> 59981ae6e4aa80b2d2b06ae092db632b89606c96
   document.getElementById('root')
 );
 
